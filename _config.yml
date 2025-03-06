@@ -9,11 +9,11 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Han Yao"
+title                    : "Han Yao 姚涵"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://hannalyao.github.io # the base hostname & protocol for your site e.g. "https://hannalyao.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "hannalyao.github.io"
 
