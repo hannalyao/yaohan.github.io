@@ -9,7 +9,7 @@ redirect_from:
 
 About Me
 ======
-* I am a PhD student at Chinese Academy of Medical Sciences & Peking Union Medical College (CAMS&PUMC) from 2022/09, under the supervision of [Yuanli Liu](https://scholar.google.com/citations?user=Z2sFN4EAAAAJ&hl=en&oi=ao). Major in health policy and management.
+* I am a PhD student at Chinese Academy of Medical Sciences & Peking Union Medical College (CAMS&PUMC) from 2022/09, under the supervision of [Yuanli Liu](http://pumc.teacher.360eol.com/teacherBasic/preview?teacherId=4919&previewCode=). Major in health policy and management.
 * I received Bachelor's Degree at Minzu University of China in 2022. Major in applied statistics.
 
 
@@ -29,10 +29,10 @@ Publications
 ------
 **English Articles**
 
-1.  **Yao H**, Liao Z, Zhang X, Zhang X, Li M, You L and Liu Y (2024) A comprehensive survey of the clinical trial landscape on digital therapeutics. Heliyon. 2024 Aug 30;10(16).
- https://doi.org/10.1016/j.heliyon.2024.e36115
-1.  Hao J, **Yao H**, Kong L and Liu Y (2024) The work relative value estimation assessment in China: an empirical research for common surgical procedures.Front. Public Health 12:1385616.
- https://doi.org/10.3389/fpubh.2024.1385616
+1.  **Yao H**, Liao Z, Zhang X, Zhang X, Li M, You L and Liu Y (2024) A comprehensive survey of the clinical trial landscape on digital therapeutics. Heliyon. 2024 Aug 30;10(16). [https://doi.org/10.1016/j.heliyon.2024.e36115](https://doi.org/10.1016/j.heliyon.2024.e36115)
+        
+1.  Hao J, **Yao H**, Kong L and Liu Y (2024) The work relative value estimation assessment in China: an empirical research for common surgical procedures.Front. Public Health 12:1385616. [https://doi.org/10.3389/fpubh.2024.1385616](https://doi.org/10.3389/fpubh.2024.1385616)
+        
 1.  Qiu Y#, **Yao H#**, Ren P, Tian X and You M. Regulatory Sandbox Expansion: Exploring the Leap from Fintech to Medical Artificial Intelligence. (Intelligent Oncology, 2025)
 1.  You M, Xiao Y, **Yao H**, Tian X, Shi L and Qiu Y. Evaluation and Regulation of Medical AI Applications in China. (Chinese Medical Sciences Journal, 2025)
 
@@ -52,8 +52,8 @@ Publications
 
 Practical Experience
 ------
--   2023.05 - 2023.08     JD.com- JD Health- Internet Medical Department  **Intern (student)**
--   2024.02 - Present     National Health Commission Health Development Research Center   **Intern Researcher**
+-   2023.05 - 2023.08      JD.com- JD Health- Internet Medical Department    **Intern (student)**
+-   2024.02 - Present      National Health Commission Health Development Research Center    **Intern Researcher**
 
 
 
